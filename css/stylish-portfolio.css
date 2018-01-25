@@ -357,3 +357,9 @@ footer {
 h2 {
     font-weight: bold;
 }
+
+
+
+.nav>li>a {
+    padding: 10px 10px;
+}
